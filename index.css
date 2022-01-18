@@ -1,0 +1,21 @@
+/* default */
+
+* {
+    margin: 0; 
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a{
+    text-decoration: none;
+    color: black; 
+}
+
+ol, ul {
+    list-style: none;
+}
+
+/* header */
